@@ -38,7 +38,7 @@ Complie and run this on your main computer with the commands below.
      # javac WhereAmI.java
      java WhereAmI
 
-   Once you do that you are now going to use scp to transfer a file from your computer to the remote computer. Youre going to type `scp WhereAmI.java cs15lfa22jt@ieng6.ucsd.edu:~/` with your own letters. Now 
+   Once you do that you are now going to use scp to transfer a file from your computer to the remote computer. Youre going to type `scp WhereAmI.java cs15lfa22jt@ieng6.ucsd.edu:~/` with your own letters. Now you will type in your password and it should got through. To check you will remote connect and try the java commands again.
 
 ## Setting an SSH Key
 
