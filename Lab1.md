@@ -1,12 +1,12 @@
-# How to install VScode to remote connecting
+#How to install VScode to remote connecting
 
- ## Installing VScode
+## Installing VScode
     To start off you must got to [](https://code.visualstudio.com/) to download the VScode for mac and go throught the wizard! Once you are done with that you should open VSCode and it should look like the picture below:
 
 
-    Once that is done you are going to got to the top of VScode and click on the **Terminal** and you are going to click on it and select **New Terminal**
+Once that is done you are going to got to the top of VScode and click on the **Terminal** and you are going to click on it and select **New Terminal**
  
- ## Remotely Connecting
+## Remotely Connecting
     Once a terminal is now open you will need to go into the terminal and type 
     `ssh cs15lfa22jt@ieng6.ucsd.edu` but the *jt* will be your own personal code. One that happens you will need to type your password in. The keystokes are being monitored when you put your password in but it will not show. If it is your first time logging intoThe image below shows what text will come up if you are connected to the server.
 
