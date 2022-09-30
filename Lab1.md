@@ -10,15 +10,15 @@ Once a terminal is now open you will need to go into the terminal and type
 `ssh cs15lfa22jt@ieng6.ucsd.edu` but the *jt* will be your own personal code. One that happens you will need to type your password in. The keystokes are being monitored when you put your password in but it will not show. If it is your first time logging intoThe image below shows what text will come up if you are connected to the server.
 
 ## Trying Some Commands
- Now that you are in a server and are connected try running these commands on your computrer and the remote coimputer
-    -cd ~
-    -cd
-    -ls 
-    -lat
-    -lsa
-    -ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username
-    -cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
-    -cat /home/linux/ieng6/cs15lfa22/public/hello.txt
+Now that you are in a server and are connected try running these commands on your computrer and the remote coimputer
+-cd ~
+-cd
+-ls 
+-lat
+-lsa
+-ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username
+-cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
+-cat /home/linux/ieng6/cs15lfa22/public/hello.txt
 
 I should look similar to the picture above whether you have the commands in your personal computer or the server.
 
