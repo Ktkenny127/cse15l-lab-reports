@@ -11,14 +11,14 @@ Once a terminal is now open you will need to go into the terminal and type
 
 ## Trying Some Commands
 Now that you are in a server and are connected try running these commands on your computrer and the remote coimputer
-1. cd ~
+`1. cd ~
 2. cd
 3. ls 
 4. ls -lat
 5. ls -a
 6. ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username
 7. cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
-8. cat /home/linux/ieng6/cs15lfa22/public/hello.txt
+8. cat /home/linux/ieng6/cs15lfa22/public/hello.txt`
 
 It should look similar to the picture above whether you have the commands in your personal computer or the server.
 
