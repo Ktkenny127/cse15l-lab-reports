@@ -1,7 +1,7 @@
 #How to install VScode to remote connecting
 
 ## Installing VScode
-To start off you must got to [](https://code.visualstudio.com/) to download the VScode for mac and go throught the wizard! Once you are done with that you should open VSCode and it should look like the picture below
+To start off you must got to [Link](https://code.visualstudio.com/) to download the VScode and go throught the wizard! Once you are done with that you should open VSCode and it should look like the picture below
 
 Once that is done you are going to got to the top of VScode and click on the **Terminal** and you are going to click on it and select **New Terminal**
  
