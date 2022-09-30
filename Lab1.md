@@ -31,14 +31,16 @@ It should look similar to the picture above whether you have the commands in you
 ## Moving Files with scp
  Now you must creat a file called `WhereAmI.java` in VScode and then you have to put this into the file:
     
-    # class WhereAmI {
-     public static void main(String[] args) {
+ ```java
+    class WhereAmI {
+    public static void main(String[] args) {
      System.out.println(System.getProperty("os.name"));
      System.out.println(System.getProperty("user.name"));
      System.out.println(System.getProperty("user.home"));
      System.out.println(System.getProperty("user.dir"));
     }
 }
+```
 
 Complie and run this on your main computer with the commands below.
  
