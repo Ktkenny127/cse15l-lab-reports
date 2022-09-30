@@ -23,7 +23,7 @@ Now that you are in a server and are connected try running these commands on you
 It should look similar to the picture above whether you have the commands in your personal computer or the server.
 
 ## Moving Files with scp
-    Now you must creat a file called `WhereAmI.java` in VScode and then you have to put this into the file:
+ Now you must creat a file called `WhereAmI.java` in VScode and then you have to put this into the file:
      # class WhereAmI {
         public static void main(String[] args) {
         System.out.println(System.getProperty("os.name"));
