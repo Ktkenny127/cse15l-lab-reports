@@ -1,9 +1,9 @@
-#How to install VScode to remote connecting
+# How to install VScode to remote connecting
 
 ## Installing VScode
-To start off you must got to [Link](https://code.visualstudio.com/) to download the VScode and go throught the wizard! Once you are done with that you should open VSCode and it should look like the picture below
+To start off you must got to [this](https://code.visualstudio.com/) to download the VScode and go throught the wizard! Once you are done with that you should open VSCode and it should look like the picture below
 
-![](Screenshot%202022-09-29%20102951.png)
+![Image](Screenshot%202022-09-29%20102951.png)
 
 Once that is done you are going to got to the top of VScode and click on the **Terminal** and you are going to click on it and select **New Terminal**
  
@@ -16,15 +16,15 @@ Once a terminal is now open you will need to go into the terminal and type
 ## Trying Some Commands
 Now that you are in a server and are connected try running these commands on your computrer and the remote coimputer
 1. cd ~
-    2. cd
-    3. ls 
-    4. ls -lat
-    5. ls -a
-    6. ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username
-    7. cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
-    8. cat /home/linux/ieng6/cs15lfa22/public/hello.txt`
+2. cd
+3. ls 
+4. ls -lat
+5. ls -a
+6. ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username
+7. cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
+8. cat /home/linux/ieng6/cs15lfa22/public/hello.txt`
 
-    ![](Screenshot%202022-09-29%20105402.png)
+![](Screenshot%202022-09-29%20105402.png)
 
 It should look similar to the picture above whether you have the commands in your personal computer or the server.
 
