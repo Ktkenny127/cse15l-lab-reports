@@ -54,7 +54,13 @@ Complie and run this on your main computer with the commands below.
 ![](scp.png)
 
 ## Setting an SSH Key
-An SSH Key lets you login to the remote computer with no password. To start you are going to type `ssh-keygen` there will be prompts aftewr that that will ask you where you want your file to go just hit `enter` as it will put it in a default spot. Now that you have made a public and private key you have to copy it to the remote computer. Login into the remote computer and type `mkdir .ssh` then logout. Now you are going to scp your public key which is in your .ssh folder and it should say `id_rsa.pub` and you are going to type `scp /Users/Kelley/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys` with your own file loaction of course. Once that is done it should look like this:
+An SSH Key lets you login to the remote computer with no password. To start you are going to type `ssh-keygen` there will be prompts aftewr that that will ask you where you want your file to go just hit `enter` as it will put it in a default spot.
+
+![](keygen%20make.png)
+
+Above is the actual making of the keygen. It coudl look different depending on if it the first time you have made a keygen or not. It typed in the path to put the key in 3rd line and foir the passkey I just hit 'Enter' so there is not "password" on the keygen it is just pressing enter the simplest I could make it.
+
+Now that you have made a public and private key you have to copy it to the remote computer. Login into the remote computer and type `mkdir .ssh` then logout. Now you are going to scp your public key which is in your .ssh folder and it should say `id_rsa.pub` and you are going to type `scp /Users/Kelley/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys` with your own file loaction of course. Once that is done it should look like this when ssh into something:
 
 ![](keygen.png)
 
