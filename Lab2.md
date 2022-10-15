@@ -134,3 +134,5 @@ To fix it there was a "}" in the worng spot making a piece of the code run forev
 This picture shows the fixed method:
 
 ![](LL%20Bug%20Fix.png)
+
+Those are just some of thge bugs that I fixed during the lab!
