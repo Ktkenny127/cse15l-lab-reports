@@ -26,6 +26,8 @@ Now that you are in a server and are connected try running these commands on you
 
 ![](Screenshot%202022-09-29%20105402.png)
 
+Above is the outputs of some of the commands that are just above the screenshot like 'cd ~' which will bring you to the home directory. The third command showing cd which means change directory. Also 'ls -a' which shows everything in a directory includiong hidden files.
+
 It should look similar to the picture above whether you have the commands in your personal computer or the server.
 
 ## Moving Files with scp

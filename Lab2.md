@@ -101,4 +101,12 @@ It utilizes this:
                        s += words.get(x) + "\n";
 
 ## Debugging using JUnit
+We were given many different java files all with multiple methods that had bugs and some taht were bug free. The fist method I want to talk about is the Reverse method in the Arraylist class. I made a test method that should have output a new arraylist of ints in reverse, below is that test.
 
+![](Screenshot%202022-10-13%20103547.png)
+
+When I ran this code JUnite said that the test failed and the symptom was that the first value of the arraylist was supposed to be 5 but the actual was 0. This means that the orignial code is buggy in some way.
+
+![](OutputReverse.png)
+
+To fix this I cahnged the for loop to run backwards and added anopther counted 
