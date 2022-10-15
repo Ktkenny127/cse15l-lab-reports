@@ -109,4 +109,28 @@ When I ran this code JUnite said that the test failed and the symptom was that t
 
 ![](OutputReverse.png)
 
-To fix this I cahnged the for loop to run backwards and added anopther counted 
+To fix this I changed the for loop to run backwards and added anopther counter that would count forwards for the new array while the old array counts backwards. This is show in the screen shot below.
+
+![](R%20BUG%20FIX.png)
+
+This is wthe bugged section that was changed:
+
+![](ReverseBug.png)
+
+It might have been easier tho just change the positions of the newArray and arr[] but I just change the whole method to help me get a bettere understand and implement something I knew how to do. It cleared the bug right up. Arr was jsut being filled with 0s and not making a new array as it was return the already made array.
+
+Next I fixed the LInked List Append method. To test the method I made the tester below. It is just a simple add 3 integers to the Linked List.
+
+![](LL%20FII.png)
+
+When I ran this JUnit said that the test failed after a very long time of sitting. There is definetly an infinite loopp in the cxode becasue the tezt ran for multiple minuires before spitting an error. Thne screen shiot shows the test screen taking longert than it should.
+
+![](LL%20APPEND%20Symptom.png)
+
+To fix it there was a "}" in the worng spot making a piece of the code run forever instead of stopping when it should. IO the screenshot below it shows that the "}" is affter the last line of code when it should be in the middle of the last tweo lines.
+
+![](LL%20need%20fix.png)
+
+This picture shows the fixed method:
+
+![](LL%20Bug%20Fix.png)
