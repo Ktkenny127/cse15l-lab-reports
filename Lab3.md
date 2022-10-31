@@ -159,4 +159,4 @@ I went in an  edited a file by deletring a new line and then used the mmin which
     ./plos/journal.pbio.0020431.txt
     ./plos/journal.pbio.0020439.txt
 
-    The command above essentially does the exact same thing as the first command but it uses a different option wiuthing the daystream catagory. The + or - can mean above or below the certtain trime range you inster respectivly.
+The command above essentially does the exact same thing as the first command but it uses a different option wiuthing the daystream catagory. The + or - can mean above or below the certtain trime range you inster respectivly.
