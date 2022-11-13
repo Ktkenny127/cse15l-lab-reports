@@ -1,6 +1,6 @@
-## Using Vim
+# Using Vim
 
-# Changing Start to Base
+## Changing Start to Base
 
 To change thevariable start to base in DocSearchServer.java, I fist opened the file using vim with:
 
@@ -29,7 +29,7 @@ I then did the same process f ``` n. ``` to do edit the last instance of start t
 To exit I used ``` :wq ``` to save and exit and save vim.
 
 
-# Vim vs. Other Text Editor
+## Vim vs. Other Text Editor
 
 I did the task above timed on both vim and on VS Code. During this using only vim it took about 45 seconds including using scp to bvring the file onto the remote server. On the other hand VS Code took and even longer amount of aboutr 2 minutes. There werent more difficulties to say it was just more to do and more to scp the file.
 
