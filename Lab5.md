@@ -37,7 +37,7 @@
 This is my grade.sh script that is used to test ListExamples.java.
 
 ## Graded Repos
-![](../../../../../../C:/Users/kelle/Documents/GitHub/cse15l-lab-reports/One%20Test.png)
+![](One%20Test.png)
 
 This is the fixed version of the code from Lab3. This code first goes through the
  ```
@@ -50,10 +50,10 @@ Once it goes througha dn gets rid of the directory and clones the new one, and c
 
 Here is another example of the code runniong through a repository
 
-![](../../../../../../C:/Users/kelle/Documents/GitHub/cse15l-lab-reports/Good%20in%20diff%20directory.png)
+![](Good%20in%20diff%20directory.png)
 
 And just one more:
 
-![](../../../../../../C:/Users/kelle/Documents/GitHub/cse15l-lab-reports/File%20Not%20Found.png)
+![](File%20Not%20Found.png)
 
 That is all that my grader has to entail!
